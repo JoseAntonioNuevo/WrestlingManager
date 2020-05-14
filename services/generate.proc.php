@@ -21,7 +21,6 @@ $genere_wrestler[$row['id_generate']]=$row['genere_generate'];
 
 for ($i=1; $i < 25 ; $i++) { 
 	$num_name=rand(1,50);
-	$cont+=1;
 	
     if ($num_name>=34 && $num_name<=44) {
     	
